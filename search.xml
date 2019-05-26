@@ -4,6 +4,31 @@
   
     
     <entry>
+      <title>游记</title>
+      <link href="/2019/05/26/%E6%B8%B8%E8%AE%B0/"/>
+      <url>/2019/05/26/%E6%B8%B8%E8%AE%B0/</url>
+      
+        <content type="html"><![CDATA[<h1 id="游记"><a href="#游记" class="headerlink" title="游记"></a>游记</h1><p>游记</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 游记 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 游记 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>test</title>
       <link href="/2019/05/26/test/"/>
       <url>/2019/05/26/test/</url>
@@ -21,7 +46,7 @@
       <link href="/2019/05/26/%E7%AC%AC%E4%B8%80%E7%AF%87markdown/"/>
       <url>/2019/05/26/%E7%AC%AC%E4%B8%80%E7%AF%87markdown/</url>
       
-        <content type="html"><![CDATA[<h1 id="标题一"><a href="#标题一" class="headerlink" title="标题一"></a>标题一</h1><p><img src="https://cdn.jsdelivr.net/gh/suiyiiii/Picgo1/img/20190526142217.png" alt=""></p>]]></content>
+        <content type="html"><![CDATA[<h1 id="标题一"><a href="#标题一" class="headerlink" title="标题一"></a>标题一</h1><p><img src="https://cdn.jsdelivr.net/gh/suiyiiii/Picgo1/img/20190526142217.png" alt=""></p><figure class="highlight json"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div><div class="line">6</div><div class="line">7</div><div class="line">8</div><div class="line">9</div><div class="line">10</div><div class="line">11</div><div class="line">12</div><div class="line">13</div><div class="line">14</div><div class="line">15</div><div class="line">16</div><div class="line">17</div><div class="line">18</div><div class="line">19</div><div class="line">20</div><div class="line">21</div><div class="line">22</div><div class="line">23</div><div class="line">24</div><div class="line">25</div><div class="line">26</div><div class="line">27</div><div class="line">28</div><div class="line">29</div><div class="line">30</div><div class="line">31</div></pre></td><td class="code"><pre><div class="line">&#123;</div><div class="line">  <span class="attr">"uploaded"</span>: [</div><div class="line">    &#123;</div><div class="line">      <span class="attr">"fileName"</span>: <span class="string">"20190526142217.png"</span>,</div><div class="line">      <span class="attr">"width"</span>: <span class="number">892</span>,</div><div class="line">      <span class="attr">"height"</span>: <span class="number">443</span>,</div><div class="line">      <span class="attr">"extname"</span>: <span class="string">".png"</span>,</div><div class="line">      <span class="attr">"imgUrl"</span>: <span class="string">"https://cdn.jsdelivr.net/gh/suiyiii/Picgo1/img/20190526142217.png"</span>,</div><div class="line">      <span class="attr">"type"</span>: <span class="string">"github"</span>,</div><div class="line">      <span class="attr">"id"</span>: <span class="string">"5c353ea0-b7ef-4d3a-ae8a-ee7915cb48e1"</span></div><div class="line">    &#125;</div><div class="line">  ],</div><div class="line">  <span class="attr">"picBed"</span>: &#123;</div><div class="line">    <span class="attr">"current"</span>: <span class="string">"github"</span>,</div><div class="line">    <span class="attr">"github"</span>: &#123;</div><div class="line">      <span class="attr">"repo"</span>: <span class="string">"suiyiiii/Picgo1"</span>,</div><div class="line">      <span class="attr">"token"</span>: <span class="string">"b1ac492f171c278f27a507c3564dee4512e65ab7"</span>,</div><div class="line">      <span class="attr">"path"</span>: <span class="string">"img/"</span>,</div><div class="line">      <span class="attr">"customUrl"</span>: <span class="string">"https://cdn.jsdelivr.net/gh/suiyiiii/Picgo1"</span>,</div><div class="line">      <span class="attr">"branch"</span>: <span class="string">"master"</span></div><div class="line">    &#125;</div><div class="line">  &#125;,</div><div class="line">  <span class="attr">"settings"</span>: &#123;</div><div class="line">    <span class="attr">"shortKey"</span>: &#123;</div><div class="line">      <span class="attr">"upload"</span>: <span class="string">"CommandOrControl+Shift+P"</span></div><div class="line">    &#125;,</div><div class="line">    <span class="attr">"showUpdateTip"</span>: <span class="literal">true</span></div><div class="line">  &#125;,</div><div class="line">  <span class="attr">"needReload"</span>: <span class="literal">false</span>,</div><div class="line">  <span class="attr">"picgoPlugins"</span>: &#123;&#125;</div><div class="line">&#125;</div></pre></td></tr></table></figure>]]></content>
       
       
       <categories>
