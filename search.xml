@@ -4,6 +4,44 @@
   
     
     <entry>
+      <title>test</title>
+      <link href="/2019/05/26/test/"/>
+      <url>/2019/05/26/test/</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>第一篇markdown</title>
+      <link href="/2019/05/26/%E7%AC%AC%E4%B8%80%E7%AF%87markdown/"/>
+      <url>/2019/05/26/%E7%AC%AC%E4%B8%80%E7%AF%87markdown/</url>
+      
+        <content type="html"><![CDATA[<h1 id="标题一"><a href="#标题一" class="headerlink" title="标题一"></a>标题一</h1><p><img src="https://cdn.jsdelivr.net/gh/suiyiiii/Picgo1/img/20190526142217.png" alt=""></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 1 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 1 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>Hello World</title>
       <link href="/2019/05/22/hello-world/"/>
       <url>/2019/05/22/hello-world/</url>
